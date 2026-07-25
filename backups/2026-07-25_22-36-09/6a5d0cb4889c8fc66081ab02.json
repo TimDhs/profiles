@@ -40835,9 +40835,9 @@
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
             "Products": [],
-            "Progress": 111491,
+            "Progress": 110649,
             "inProgress": true,
-            "StartTimestamp": 1785019569,
+            "StartTimestamp": 1785018968,
             "SkipTime": 0,
             "ProductionTime": 144960,
             "GivenItemsInStart": [],
@@ -40863,7 +40863,7 @@
           },
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 37217,
+            "Progress": 36616,
             "inProgress": true,
             "StartTimestamp": 1784982357,
             "SkipTime": 0,
@@ -41057,8 +41057,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 44.9366,
-                        "UnitsConsumed": 5.0634
+                        "Value": 45.6278,
+                        "UnitsConsumed": 4.3722
                       }
                     }
                   }
@@ -41633,7 +41633,7 @@
         "HideoutCounters": null,
         "Seed": "2bfc8cd0c2952cf310e38ac502c9dd8f",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785019569,
+        "sptUpdateLastRunTimestamp": 1785018968,
         "Customization": {
           "Wall": "675467d8b784110b2702fe11",
           "Floor": "6758443ff94a97cbbe096f18",

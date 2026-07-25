@@ -21627,8 +21627,8 @@
       "_id": "6952ced4bcc1dd1e3c80dfcb"
     },
     "59e7125688a45068a6249071": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 7,
       "pinned": false,
       "messages": [
@@ -21675,36 +21675,6 @@
           "hasRewards": false,
           "rewardCollected": true,
           "items": {},
-          "maxStorageTime": 604800
-        },
-        {
-          "_id": "6a651b29d5c2e512a868c6b1",
-          "uid": "59e7125688a45068a6249071",
-          "type": 7,
-          "dt": 1785010985,
-          "text": "You have received a gift from Zgegeekorne",
-          "hasRewards": true,
-          "rewardCollected": false,
-          "items": {
-            "stash": "664115f68b8ae85875060b39",
-            "data": [
-              {
-                "_id": "6a651b29d5c2e512a868c6b2",
-                "_tpl": "5e00cdd986f7747473332240",
-                "parentId": "664115f68b8ae85875060b39",
-                "slotId": "main",
-                "location": {
-                  "x": 1,
-                  "y": 8,
-                  "rotation": true,
-                  "r": "Vertical"
-                },
-                "upd": {
-                  "SpawnedInSession": false
-                }
-              }
-            ]
-          },
           "maxStorageTime": 604800
         }
       ],
